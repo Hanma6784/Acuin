@@ -88,3 +88,11 @@ img {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 
 }
+
+#datetime {
+    font-size: 18px;
+    font-family: Arial, sans-serif;
+    color: #f8e65e;
+    text-align: center;
+    margin: 0 auto;
+}
